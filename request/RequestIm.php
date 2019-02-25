@@ -6,7 +6,7 @@
  * Time: 14:58
  */
 
-namespace cyr\tencentim\request;
+namespace cyr\tencentim;
 
 
 class RequestIm
