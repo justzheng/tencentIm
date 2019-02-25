@@ -1,6 +1,6 @@
 <?php
 
-namespace cyr\tencentim\src;
+namespace cyr\tencentim;
 
 class TLSSigAPI {
 
